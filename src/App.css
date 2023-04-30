@@ -3,6 +3,7 @@
   grid-template-columns: repeat(4, 150px);
   grid-template-rows: 150px 150px;
   grid-gap: 10px;
+  height: 100%;
 }
 
 #overall {
